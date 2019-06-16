@@ -1,0 +1,13 @@
+can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium
+48 1
+122 1
+20 3
+58 3
+196 3
+354 1
+360 1
+197 3
+999 3
+1112 3
+1005 1
+492 -1

@@ -1,0 +1,10 @@
+has anyone investigated and developed a simple model for the vortex wake behind a cruciform wing
+569 1
+571 1
+1355 2
+101 3
+655 3
+1213 3
+798 4
+572 1
+540 -1

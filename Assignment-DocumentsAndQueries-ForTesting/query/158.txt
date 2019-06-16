@@ -1,0 +1,10 @@
+what data is there on the fatigue of structures under acoustic loading
+302 1
+1011 1
+552 2
+998 3
+1009 3
+1010 3
+273 4
+556 4
+1006 -1

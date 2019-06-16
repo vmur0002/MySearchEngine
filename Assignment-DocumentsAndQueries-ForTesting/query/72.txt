@@ -1,0 +1,19 @@
+what is a criterion that the transonic flow around an airfoil with a round leading edge be validly analyzed by the linearized transonic flow theory
+21 2
+324 2
+630 2
+94 3
+664 3
+304 3
+128 4
+323 4
+663 4
+570 3
+494 3
+305 4
+309 4
+571 4
+655 4
+388 4
+62 4
+629 -1

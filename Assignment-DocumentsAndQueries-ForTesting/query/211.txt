@@ -1,0 +1,13 @@
+what analytical solutions are available for stresses in edge-loaded shells of revolution
+891 2
+1172 2
+1173 3
+1174 3
+763 3
+769 4
+1030 4
+1031 4
+1033 4
+1052 4
+1068 4
+1145 -1

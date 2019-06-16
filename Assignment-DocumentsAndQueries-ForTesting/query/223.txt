@@ -1,0 +1,6 @@
+what is the magnitude of second-order wing-body interference at high supersonic mach number
+400 3
+1387 3
+1392 3
+1398 3
+1396 -1

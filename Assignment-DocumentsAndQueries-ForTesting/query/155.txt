@@ -1,0 +1,8 @@
+what is the effect of an internal liquid column on the breathing vibrations of a cylindrical shell
+1103 1
+1100 2
+983 3
+1101 3
+1104 3
+1099 4
+1065 -1

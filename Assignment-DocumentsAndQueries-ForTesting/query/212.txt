@@ -1,0 +1,16 @@
+what dome contours minimize discontinuity stresses when used as closures on cylindrical pressure vessels
+888 2
+889 2
+1178 2
+885 3
+887 3
+886 3
+841 4
+1176 4
+1177 4
+890 3
+769 3
+891 3
+1173 3
+843 3
+1146 -1

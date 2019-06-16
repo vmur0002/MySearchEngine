@@ -1,0 +1,8 @@
+basic dynamic characteristics of structures continuous over many spans
+1076 1
+1077 3
+569 3
+572 3
+687 4
+655 3
+1062 -1

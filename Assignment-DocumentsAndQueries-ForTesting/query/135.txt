@@ -1,0 +1,10 @@
+what effect has the boundary layer in modifying the basic inviscid flow behind the shock,  neglecting effects of leading edge and corner
+1018 1
+1017 4
+1023 4
+1024 4
+1025 4
+1026 4
+950 4
+1016 4
+951 -1

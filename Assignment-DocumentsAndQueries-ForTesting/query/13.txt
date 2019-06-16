@@ -1,0 +1,6 @@
+what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack.
+64 2
+265 2
+65 4
+311 4
+496 -1

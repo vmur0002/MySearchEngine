@@ -1,0 +1,26 @@
+how can the effect of the boundary-layer on wing pressure be calculated, and what is its magnitude
+1379 2
+1305 2
+1304 2
+40 3
+293 3
+1309 3
+161 4
+421 4
+1377 4
+1378 3
+1381 3
+225 3
+1380 4
+448 3
+449 3
+1124 3
+1280 3
+433 3
+923 3
+924 3
+1062 3
+1074 3
+1075 3
+1213 3
+1188 -1

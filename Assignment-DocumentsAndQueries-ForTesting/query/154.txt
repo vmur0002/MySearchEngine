@@ -1,0 +1,4 @@
+can the load deformation characteristics of a beam be obtained with the material being inelastic and a non uniform temperature being present
+1087 2
+1088 3
+1063 -1

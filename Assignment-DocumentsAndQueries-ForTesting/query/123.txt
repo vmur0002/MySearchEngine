@@ -1,0 +1,4 @@
+are methods of measuring aerodynamic derivatives available which could be adopted for use in short running time facilities
+966 2
+967 3
+941 -1

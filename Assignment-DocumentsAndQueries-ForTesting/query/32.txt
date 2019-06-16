@@ -1,0 +1,8 @@
+can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem
+465 2
+249 3
+777 3
+778 3
+247 4
+250 4
+752 -1

@@ -1,0 +1,11 @@
+what is the effect of cross sectional shape on the flow over simple delta wings with sharp leading edges
+84 2
+24 3
+101 3
+294 3
+628 4
+661 4
+364 3
+365 3
+560 3
+123 -1

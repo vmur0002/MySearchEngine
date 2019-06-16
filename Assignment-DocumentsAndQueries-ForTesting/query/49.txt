@@ -1,0 +1,4 @@
+what are the factors which influence the time required to invert large structural matrices
+320 3
+478 4
+527 -1

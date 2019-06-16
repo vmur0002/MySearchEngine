@@ -1,0 +1,7 @@
+what possible techniques are available for computing the injection distribution corresponding to an isothermal transpiration cooled hemisphere
+860 1
+861 1
+606 3
+980 3
+12 3
+766 -1

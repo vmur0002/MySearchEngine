@@ -1,0 +1,26 @@
+what are the structural and aeroelastic problems associated with flight of high speed aircraft
+12 1
+15 2
+184 2
+858 2
+51 3
+102 3
+202 3
+14 4
+52 4
+380 4
+746 1
+859 2
+948 2
+285 3
+390 3
+391 3
+442 4
+497 3
+643 3
+856 3
+857 3
+877 3
+864 3
+658 3
+486 -1

@@ -1,0 +1,8 @@
+can methane-air combustion product be used as a hypersonic test medium and predict, within experimental accuracies, the results obtained in air
+1038 1
+1041 1
+1043 2
+1044 2
+1039 3
+1042 3
+954 -1

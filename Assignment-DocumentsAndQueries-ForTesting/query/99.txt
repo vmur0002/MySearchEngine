@@ -1,0 +1,6 @@
+is it possible to determine rates of forced convective heat transfer from heated cylinders of non-circular cross-section,  (the fluid flow being along the generators)
+717 2
+719 2
+1001 3
+1379 3
+639 -1

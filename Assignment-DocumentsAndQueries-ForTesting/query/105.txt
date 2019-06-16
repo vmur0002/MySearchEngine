@@ -1,0 +1,7 @@
+can't the static deflection shapes be used in predicting flutter in place of vibrational shapes if so,  can we provide a justification by means of an example
+848 3
+844 4
+845 4
+846 4
+847 4
+764 -1

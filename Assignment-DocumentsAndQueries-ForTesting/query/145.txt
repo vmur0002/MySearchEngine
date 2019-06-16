@@ -1,0 +1,9 @@
+has anyone investigated the unsteady lift distributions on finite wings in subsonic flow
+763 2
+838 2
+839 2
+1045 3
+743 3
+852 4
+841 2
+955 -1

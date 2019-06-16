@@ -1,0 +1,14 @@
+how is the heat transfer downstream of the mass transfer region effected by mass transfer at the nose of a blunted cone
+24 1
+283 3
+294 3
+559 3
+689 4
+690 4
+101 4
+1393 3
+354 4
+1104 4
+1161 4
+1395 4
+635 -1

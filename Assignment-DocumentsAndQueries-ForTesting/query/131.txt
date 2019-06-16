@@ -1,0 +1,10 @@
+references on the methods available for accurately estimating aerodynamic heat transfer to conical bodies for both laminar and turbulent flow
+1014 2
+1020 2
+1013 3
+1016 3
+1017 3
+1012 4
+1018 3
+1019 3
+950 -1

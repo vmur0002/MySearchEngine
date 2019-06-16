@@ -1,0 +1,16 @@
+what are the experimental results for the creep buckling of columns
+572 2
+1311 2
+63 3
+540 3
+602 4
+603 4
+604 4
+1305 4
+1188 4
+307 4
+1213 4
+655 4
+1355 4
+68 4
+1285 -1

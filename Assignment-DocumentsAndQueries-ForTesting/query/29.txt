@@ -1,0 +1,11 @@
+material properties of photoelastic materials
+250 2
+514 2
+609 2
+225 3
+793 3
+464 4
+465 4
+612 2
+466 4
+513 -1

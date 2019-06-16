@@ -1,0 +1,10 @@
+has the solution of the clamped plate problem,  in the classical theory of bending,  been reduced to two successive membrane boundary value problems
+311 2
+415 3
+416 3
+798 3
+316 4
+335 4
+1364 3
+1367 3
+503 -1

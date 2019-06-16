@@ -1,0 +1,9 @@
+previous solutions to the boundary layer similarity equations
+15 2
+391 2
+864 2
+914 3
+392 3
+627 3
+658 3
+894 -1

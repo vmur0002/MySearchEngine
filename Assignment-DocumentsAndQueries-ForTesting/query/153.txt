@@ -1,0 +1,9 @@
+is the information on the buckling of sandwich sphere available
+1078 3
+1083 3
+1084 3
+1080 4
+1081 4
+1082 4
+1085 3
+1063 -1

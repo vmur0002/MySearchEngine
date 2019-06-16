@@ -1,0 +1,8 @@
+is there any simple,  but practical,  method for numerical integration of the mixing problem (i.e. the blasius problem with three-point boundary conditions)
+817 2
+818 2
+819 2
+820 3
+825 3
+824 2
+760 -1

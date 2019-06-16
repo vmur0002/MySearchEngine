@@ -1,0 +1,8 @@
+can increasing the edge loading of a plate beyond the critical value for buckling change the buckling mode
+54 2
+1386 2
+562 3
+336 3
+55 4
+996 4
+489 -1

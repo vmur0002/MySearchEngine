@@ -1,0 +1,13 @@
+what general solutions for the stresses in pressurized shells of revolution are available
+888 1
+885 2
+887 2
+889 2
+1178 3
+769 3
+1173 3
+1177 4
+886 3
+890 3
+843 3
+1146 -1

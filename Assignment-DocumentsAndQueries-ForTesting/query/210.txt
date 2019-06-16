@@ -1,0 +1,8 @@
+what are the discontinuity stresses at junctions in pressurized structures
+1171 2
+891 3
+1172 3
+1173 3
+1030 4
+1174 3
+1145 -1
